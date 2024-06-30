@@ -1,0 +1,14 @@
+node_modules
+dist
+build
+logs
+coverage
+.github
+.vscode
+*.log*
+*.log
+*.lock
+*.yml
+*.sh
+*rc.*
+*.htm
